@@ -264,7 +264,7 @@ h6 {
 #hero {
   width: 55%;
   height: 100vh;
-  background: url("mcprofile.png") top right no-repeat ;
+  /*background: url("mcprofile.png") top right no-repeat ;*/
   background-size: cover;
   position: relative;
 }
